@@ -25,8 +25,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-<iframe width="900" height="500" src="https://www.youtube.com/watch?v=o5g-lUuFgpg">
-</iframe>
+Link<div><br /></div><div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen="" class="BLOG_video_class" height="358" src="http://www.youtube.com/embed/o5g-lUuFgpg" width="480" youtube-src-id="o5g-lUuFgpg"></iframe></div><br /><div><br /></div>
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
